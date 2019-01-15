@@ -1,7 +1,7 @@
 describe('Save pdf dialog pops up', () => {
 
     beforeEach(() => {
-        cy.visit('/')
+        cy.visit('index.html')
     })
 
     it('Test', () => {
